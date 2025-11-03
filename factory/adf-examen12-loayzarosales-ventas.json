@@ -1,0 +1,9 @@
+{
+	"name": "adf-examen12-loayzarosales-ventas",
+	"location": "chilecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "adb1b08c-6eb0-44d3-943f-21309f123e28",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
